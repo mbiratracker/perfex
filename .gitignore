@@ -1,0 +1,24 @@
+# Fichiers sensibles
+/uploads/*
+/backups/*
+/temp/*
+application/config/config.php
+application/config/database.php
+.env
+*.log
+
+# Cache et fichiers temporaires
+application/cache/*
+application/logs/*
+application/language/*/perfex_lang.php
+
+# Fichiers système
+.DS_Store
+.htaccess
+web.config
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
