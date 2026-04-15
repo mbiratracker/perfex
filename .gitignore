@@ -22,3 +22,4 @@ web.config
 .idea/
 *.swp
 *.swo
+application/vendor/
